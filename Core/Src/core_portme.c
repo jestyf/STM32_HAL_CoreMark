@@ -81,7 +81,6 @@ start_time(void)
 {
     Tick = 0;
     is_running=1;
-    SysTick_Config(SystemCoreClock/1000);
 }
 /* Function : stop_time
         This function will be called right after ending the timed portion of the
