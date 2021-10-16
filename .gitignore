@@ -1,0 +1,8 @@
+.vscode
+.vscode/*
+.d
+.obj
+.o
+.hex
+.elf
+.bin
